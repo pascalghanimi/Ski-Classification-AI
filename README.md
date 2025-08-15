@@ -12,7 +12,7 @@ The project develops a deep learning pipeline that:
 - Classifies different turn types and directions.
 - Uses only video input — no additional sensors needed.
 
-<img width="944" height="531" alt="image" src="https://github.com/user-attachments/assets/6d889aad-0872-4952-a1d4-93a184b6c8e4" />
+<img width="472" height="265" alt="image" src="https://github.com/user-attachments/assets/6d889aad-0872-4952-a1d4-93a184b6c8e4" />
 
 ---
 
